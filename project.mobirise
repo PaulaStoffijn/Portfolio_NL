@@ -39,14 +39,14 @@
           "_name": "ext.menu",
           "_anchor": "ext_menu-107",
           "_params": {
-            "logo": false,
-            "showBrand": false,
-            "showButtons": false,
+            "color": "#2c2c2c",
+            "hamburgerColor": "#ffffff",
+            "transparent": true,
             "sticky": false,
             "collapsed": false,
-            "transparent": true,
-            "color": "#2c2c2c",
-            "hamburgerColor": "#ffffff"
+            "logo": false,
+            "showBrand": false,
+            "showButtons": false
           },
           "logo": {
             "image": {
@@ -68,23 +68,23 @@
           "_name": "header4",
           "_anchor": "header4-33",
           "_params": {
-            "showTitle": false,
-            "showText": false,
-            "showButtons": false,
-            "showArrow": false,
-            "contentAlign": "center",
+            "parallax": false,
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/paula.gif",
-            "parallax": false,
-            "bgColorRadio": false,
             "bgColor": "#4c6972",
-            "bgVideoRadio": false,
+            "bgColorRadio": false,
             "bgVideo": {
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
+            "bgVideoRadio": false,
+            "contentAlign": "center",
             "overlay": false,
+            "overlayOpacity": 0.5,
             "overlayColor": "#222",
-            "overlayOpacity": 0.5
+            "showTitle": false,
+            "showText": false,
+            "showButtons": false,
+            "showArrow": false
           },
           "title": "MOBIRISE WEBSITE BUILDER",
           "text": "Create awesome mobile-friendly websites. No coding and free.",
@@ -95,27 +95,27 @@
           "_name": "content4",
           "_anchor": "content4-31",
           "_params": {
-            "showHeader": false,
-            "showSubheader": false,
-            "showImages": false,
-            "showTitles": true,
-            "showCaptions": true,
-            "showButtons": false,
             "paddingTop": 3,
             "paddingBottom": 3,
-            "columns": 5,
             "bgImageRadio": false,
-            "bgImage": "images/bg3.jpg",
             "parallax": true,
-            "bgColorRadio": true,
+            "bgImage": "images/bg3.jpg",
             "bgColor": "#fff",
-            "bgVideoRadio": false,
+            "bgColorRadio": true,
             "bgVideo": {
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
+            "bgVideoRadio": false,
             "overlay": false,
+            "overlayOpacity": 0.5,
             "overlayColor": "#222",
-            "overlayOpacity": 0.5
+            "showHeader": false,
+            "showSubheader": false,
+            "columns": 5,
+            "showImages": false,
+            "showTitles": true,
+            "showCaptions": true,
+            "showButtons": false
           },
           "headerAlign": "left",
           "header": "DROP-DEAD EASY WEBSITE MAKER",
