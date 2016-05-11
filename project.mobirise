@@ -4,12 +4,12 @@
     "versionFirst": "2.8.6",
     "versionPublish": "2.8.6",
     "name": "Portfolio_NL",
-    "favicon": "@PROJECT_PATH@/assets/images/screenshot-640x343-62.png",
+    "favicon": "@PROJECT_PATH@/assets/images/paula.gif",
     "publishType": "local",
     "publishPath": "file:///Users/paulastoffijn/Desktop/Portfolio_NL",
     "path": "file:///Users/paulastoffijn/Desktop/Portfolio_NL",
     "screenshot": "screenshot.png",
-    "cookiesAlert": "",
+    "cookiesAlert": "We use cookies to give you the best experience. Read our <a href='privacy.html'>cookie policy</a>.",
     "google-analytics": ""
   },
   "pages": {

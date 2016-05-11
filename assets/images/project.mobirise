@@ -3,13 +3,13 @@
     "currentPage": "links.html",
     "versionFirst": "2.8.6",
     "versionPublish": "2.8.6",
-    "name": "Portfolio_EN",
+    "name": "Portfolio_NL",
     "favicon": "@PROJECT_PATH@/assets/images/paula.gif",
     "publishType": "local",
-    "publishPath": "file:///Users/paulastoffijn/Desktop/Portfolio_EN",
-    "path": "file:///Users/paulastoffijn/Desktop/Portfolio_EN",
+    "publishPath": "file:///Users/paulastoffijn/Desktop/Portfolio_NL",
+    "path": "file:///Users/paulastoffijn/Desktop/Portfolio_NL",
     "screenshot": "screenshot.png",
-    "cookiesAlert": "",
+    "cookiesAlert": "We use cookies to give you the best experience. Read our <a href='privacy.html'>cookie policy</a>.",
     "google-analytics": ""
   },
   "pages": {
@@ -31,7 +31,10 @@
             "&.mbr-navbar--stuck .mbr-navbar__section": {
               "background": "#2c2c2c"
             },
-            ".mbr-navbar__section": {}
+            ".mbr-navbar__section": {},
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            }
           },
           "_name": "ext.menu",
           "_anchor": "ext_menu-107",
@@ -283,7 +286,7 @@
               "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
             }
           },
-          "text": "A poster for a three-part performance night and one for a double movie screening.<br>Made at LUCA School of Arts Ghent in 2015-16."
+          "text": "Een poster voor een driedelige performanceavond en een voor een dubbele film vertoning.<br>Gemaakt aan LUCA School of Arts Gent 2015-16."
         },
         {
           "_name": "image2",
@@ -313,7 +316,7 @@
               "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
             }
           },
-          "text": "Album amicorum.........<br>"
+          "text": "Bijdragen aan een vriendenboek, beantwoord op de vragen wat is je favoriete muziek, favoriete object, denkbeeldige vriend, favoriete cocktail en favoriete einde. Gemaakt aan&nbsp;LUCA School of Arts Gent 2015-16.<br>"
         },
         {
           "_name": "image1",
@@ -344,7 +347,7 @@
               "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
             }
           },
-          "text": "Model drawings made at LUCA School of Arts Ghent in 2015-16.<br>"
+          "text": "Modeltekeningen gemaakt aan LUCA School of Arts Gent in 2015-16."
         },
         {
           "_name": "image1",
@@ -375,7 +378,7 @@
               "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
             }
           },
-          "text": "Cards for Agency for Contemporary Artistic Discourse &amp; Collaboration made in 2015 in Kassel.<br>"
+          "text": "Visitenkaarten voor Agency for Contemporary Artistic Discourse &amp; Collaboration gemaakt in&nbsp;2015.<br>"
         },
         {
           "_name": "image1",
@@ -406,7 +409,7 @@
               "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
             }
           },
-          "text": "Model drawings made at LUCA School of Arts Ghent in 2014-15.<br>"
+          "text": "Modeltekeningen gemaakt aan LUCA School of Arts Gent in 2014-15.<br>"
         },
         {
           "_name": "image2",
@@ -436,7 +439,7 @@
               "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
             }
           },
-          "text": "Website inspired by the Greek mythology of Perseus.<br>Made at LUCA School of Arts Ghent in 2014-15.<br>"
+          "text": "Website geïnspireerd op het Griekse mythologische personage Perseus.<br>Gemaakt aan LUCA School of Arts Gent in 2014-15."
         },
         {
           "_name": "image1",
@@ -467,7 +470,7 @@
               "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
             }
           },
-          "text": "LP covers for Tangerine Dream and Andre Laplante. The typeface is altered to visualize the spaciousness of the music.<br>Made at LUCA School of Arts Ghent in 2014-15.<br>"
+          "text": "Platenhoezen voor Tangerine Dream en Andre Laplante. Lettertype is hiervoor gedigitaliseerd en aangepast om ruimtelijkheid van de muziek te verbeelden.<br>Gemaakt aan LUCA School of Arts Gent in 2014-15."
         },
         {
           "_name": "image2",
@@ -497,7 +500,7 @@
               "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
             }
           },
-          "text": "Cetacea et Cetera, a wunderkammer as a book. About structures, patterns, underwater live etcetera.<br>Made at LUCA School of Arts Ghent in 2014-15.<br>"
+          "text": "Cetacea et Cetera,&nbsp;een wunderkammer in boekvorm. Over structuren, patronen, ordening, onderwaterleven etcetera. Gemaakt aan&nbsp;LUCA School of Arts Gent in 2014-15.<br>"
         },
         {
           "_name": "image1",
@@ -528,7 +531,7 @@
               "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
             }
           },
-          "text": "Flyer for Ontroerend Goed made in Antwerp in 2014.<br>"
+          "text": "Flyer voor Ontroerend Goed gemaakt in Antwerpen in 2014.<br>"
         },
         {
           "_name": "image2",
@@ -558,7 +561,7 @@
               "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
             }
           },
-          "text": "Dagen van gras, dagen van stro, the song ‘Dagen van gras, dagen van stro’ of Spinvis interpreted as a book.<br>Made at the Royal Academy for Fine Arts in Antwerp in 2013-14.<br>"
+          "text": "Dagen van gras, dagen van stro, het nummer 'Dagen van gras, dagen van stro' van Spinvis geïnterpreteerd als boek. Gemaakt aan Koninklijke Academie voor Schone Kunsten Antwerpen in 2013-14."
         },
         {
           "_name": "image1",
@@ -589,7 +592,7 @@
               "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
             }
           },
-          "text": "Model drawings made at the Royal Academy for Fine Arts in Antwerp in 2013-14.<br>"
+          "text": "Modeltekeningen gemaakt aan Koninklijke Academie voor Schone Kunsten Antwerpen in 2013-14."
         },
         {
           "_name": "image1",
@@ -620,7 +623,7 @@
               "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
             }
           },
-          "text": "Model drawings made at Artez Arnhem in 2011-12.<br>"
+          "text": "Modeltekeningen gemaakt aan Artez Arnhem in 2011-12."
         },
         {
           "_styles": {
@@ -662,7 +665,7 @@
             }
           },
           "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
-          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\">Links</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"en.html\">Nederlands</a></li>",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\">English</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"en.html\">Links</a></li>",
           "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-default\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">DOWNLOAD</a></li>"
         }
       ]
