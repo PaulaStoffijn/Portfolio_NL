@@ -260,6 +260,67 @@
         },
         {
           "_name": "image2",
+          "_anchor": "image2-19",
+          "_params": {
+            "outside": true,
+            "showText": true
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/werfbord-1000x746-33.jpg",
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            }
+          },
+          "text": "Een werfbord voor de Ghent Art Book Fair. Gemaakt aan LUCA School of Arts Gent in 2015-2016.",
+          "_styles": {
+            "SMALL": {
+              "color": "#000000"
+            }
+          }
+        },
+        {
+          "_name": "image1",
+          "_anchor": "image1-18",
+          "_params": {
+            "outside": true,
+            "bgColor": "#ffffff",
+            "showText": true
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/bookmm.gif",
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            }
+          },
+          "text": "Book Making Machine, een productielijn om boeken te maken. In samenwerking met Victor Van Wassenhove, 2016.",
+          "_styles": {
+            "SMALL": {
+              "color": "#000000"
+            }
+          }
+        },
+        {
+          "_name": "image2",
           "_styles": {
             "SMALL": {
               "color": "#000000"
@@ -287,6 +348,37 @@
             }
           },
           "text": "Een poster voor een driedelige performanceavond en een voor een dubbele film vertoning.<br>Gemaakt aan LUCA School of Arts Gent 2015-16."
+        },
+        {
+          "_name": "image1",
+          "_anchor": "image1-20",
+          "_params": {
+            "outside": true,
+            "bgColor": "#ffffff",
+            "showText": true
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/troep.gif",
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            }
+          },
+          "text": "Gezeefdrukte posters, uitnodigingen en flyers voor TROEP, een tentoonstelling van Grafiek en Tekenkunst LUCA School of Arts Ghent.<br>In samenwerking met Victor Van Wassenhove, 2016.<br>",
+          "_styles": {
+            "SMALL": {
+              "color": "#000000"
+            }
+          }
         },
         {
           "_name": "image2",
@@ -334,7 +426,7 @@
           "media": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/modelgent2-1500x693-75.jpg",
+              "src": "@PROJECT_PATH@/assets/images/model3ba-1400x508-8.jpg",
               "class": "mbr-figure__img",
               "width": 1400,
               "link": "",
