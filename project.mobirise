@@ -147,7 +147,7 @@
               "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
             }
           },
-          "title2": "<p><a href=\"http://http://mykwyr.github.io/portfolio/\" class=\"text-info\">Mayke Vandenweyer</a><br></p>",
+          "title2": "<p><a href=\"http://lorevu.github.io/publication/index.html\" target=\"_blank\">Lore Van Uffelen</a><br></p>",
           "caption2": "",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "media3": {
@@ -177,7 +177,7 @@
               "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
             }
           },
-          "title4": "",
+          "title4": "<p><a href=\"http://cthms.github.io/publicatie_nl/\" target=\"_blank\">Charlotte Thomas</a></p>",
           "caption4": "",
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "media5": {
@@ -192,7 +192,7 @@
               "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
             }
           },
-          "title5": "",
+          "title5": "<p><a href=\"http://elinevan.github.io/publication/\" target=\"_blank\">Eline Vansteenkiste</a>&nbsp;</p>",
           "caption5": "",
           "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "media6": {
@@ -260,6 +260,11 @@
         },
         {
           "_name": "image2",
+          "_styles": {
+            "SMALL": {
+              "color": "#000000"
+            }
+          },
           "_anchor": "image2-19",
           "_params": {
             "outside": true,
@@ -281,15 +286,76 @@
               "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
             }
           },
-          "text": "Een werfbord voor de Ghent Art Book Fair. Gemaakt aan LUCA School of Arts Gent in 2015-2016.",
+          "text": "Een werfbord voor de Ghent Art Book Fair. Gemaakt aan LUCA School of Arts Gent in 2015-2016."
+        },
+        {
+          "_name": "image1",
           "_styles": {
             "SMALL": {
               "color": "#000000"
             }
-          }
+          },
+          "_anchor": "image1-24",
+          "_params": {
+            "outside": true,
+            "bgColor": "#ffffff",
+            "showText": true
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/bellhooks-1000x750-54.jpg",
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            }
+          },
+          "text": "Nieuw ontwerp voor Feminism is for Everybody van bell hooks, deel van reeks in ontwikkeling. Gemaakt aan LUCA School of Arts Ghent 2015-2016."
+        },
+        {
+          "_name": "image2",
+          "_styles": {
+            "SMALL": {
+              "color": "#000000"
+            }
+          },
+          "_anchor": "image2-25",
+          "_params": {
+            "outside": true,
+            "showText": true
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/littlebitill-1000x750-85.jpg",
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            }
+          },
+          "text": "Kranten met 1 artiekel, deel van reeks in ontwikkeling. Gemaakt aan LUCA School of Arts Ghent 2015-2016."
         },
         {
           "_name": "image1",
+          "_styles": {
+            "SMALL": {
+              "color": "#000000"
+            }
+          },
           "_anchor": "image1-18",
           "_params": {
             "outside": true,
@@ -312,12 +378,7 @@
               "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
             }
           },
-          "text": "Book Making Machine, een productielijn om boeken te maken. In samenwerking met Victor Van Wassenhove, 2016.",
-          "_styles": {
-            "SMALL": {
-              "color": "#000000"
-            }
-          }
+          "text": "Book Making Machine, een productielijn om boeken te maken. In samenwerking met Victor Van Wassenhove, 2016."
         },
         {
           "_name": "image2",
@@ -350,7 +411,42 @@
           "text": "Een poster voor een driedelige performanceavond en een voor een dubbele film vertoning.<br>Gemaakt aan LUCA School of Arts Gent 2015-16."
         },
         {
+          "_name": "image2",
+          "_anchor": "image2-23",
+          "_params": {
+            "outside": true,
+            "showText": true
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/emma-1000x750-64.jpg",
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            }
+          },
+          "text": "Gezeefdrukte postkaarten naar aanleiding van Emma Watson's ambassadeurschap bij de VN, 2016.",
+          "_styles": {
+            "SMALL": {
+              "color": "#000000"
+            }
+          }
+        },
+        {
           "_name": "image1",
+          "_styles": {
+            "SMALL": {
+              "color": "#000000"
+            }
+          },
           "_anchor": "image1-20",
           "_params": {
             "outside": true,
@@ -373,12 +469,37 @@
               "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
             }
           },
-          "text": "Gezeefdrukte posters, uitnodigingen en flyers voor TROEP, een tentoonstelling van Grafiek en Tekenkunst LUCA School of Arts Ghent.<br>In samenwerking met Victor Van Wassenhove, 2016.<br>",
+          "text": "Gezeefdrukte posters, uitnodigingen en flyers voor TROEP, een tentoonstelling van Grafiek en Tekenkunst LUCA School of Arts Ghent.<br>In samenwerking met Victor Van Wassenhove, 2016.<br>"
+        },
+        {
+          "_name": "image2",
           "_styles": {
             "SMALL": {
               "color": "#000000"
             }
-          }
+          },
+          "_anchor": "image2-22",
+          "_params": {
+            "outside": true,
+            "showText": true
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/rebound-1000x715-70.jpg",
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            }
+          },
+          "text": "Boeken voorzien van nieuwe omslag, bij Publication Studio Rotterdam, 2016."
         },
         {
           "_name": "image2",
